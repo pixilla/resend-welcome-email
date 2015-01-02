@@ -18,7 +18,7 @@ This tool was developed to quickly renew and remind users of their password when
 
 = Developers & Designers =
 
-This extension has a plubic GitHub page where users can contribute fixes and improvements.
+This extension has a public GitHub page where users can contribute fixes and improvements.
 
 [Follow Development on GitHub ](https://github.com/atwellpub/resend-welcome-email "Follow & Contribute to core development on GitHub")
  | 
